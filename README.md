@@ -1,2 +1,2 @@
 # YOPYTHON
-beberapa kumpulan project python sederhana yang saya lakukan untuk pemenuhan tugas di dikampus
+beberapa kumpulan project python yang saya lakukan dan sebagian untuk pemenuhan tugas kampus
