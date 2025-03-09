@@ -8,14 +8,14 @@ adapun beberapa syarat untuk mengikuti tutorial ini, pastikan teman-teman sudah 
 
 GASS ke Tutorialnya!!
 Langkah 1: Menjalankan MySQL di XAMPP
- 1.Buka XAMPP Control Panel.
- 2.Start Apache dan MySQL.
- 3.Klik tombol Admin di sebelah MySQL untuk membuka phpMyAdmin
+ 1. Buka XAMPP Control Panel.
+ 2. Start Apache dan MySQL.
+ 3. Klik tombol Admin di sebelah MySQL untuk membuka phpMyAdmin
 
 Langkah 2: Membuat Database di phpMyAdmin
- 1.Buka phpMyAdmin melalui browser (http://localhost/phpmyadmin).
- 2.Buat database baru, misalnya data_test.
- 3.Buka tab Browser lalu buat data yang dibutuhkan contoh(id, nama_barang, harga_barang, dll).
+ 1. Buka phpMyAdmin melalui browser (http://localhost/phpmyadmin).
+ 2. Buat database baru, misalnya data_test.
+ 3. Buka tab Browser lalu buat data yang dibutuhkan contoh(id, nama_barang, harga_barang, dll).
   atau ke bagian tab SQL buat seperti ini:
 
         CREATE TABLE users (
