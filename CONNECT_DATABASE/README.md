@@ -25,3 +25,4 @@ Langkah 2: Membuat Database di phpMyAdmin
         );
 
 Lagkah 3: Hubungkan python ke sql liat code dan file  yang terupload 
+folder services berisi program bagaimana kita mengkoneksikan ke mysql database
